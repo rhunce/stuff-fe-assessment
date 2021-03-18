@@ -7,11 +7,31 @@
   grid-row-gap: 0px;
 }
 
+.section-1 {
+  padding-left: 10px;
+}
+
+.date-of{
+  color: rgb(212, 112, 224);
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.ads-36 {
+  background-color: rgb(65, 190, 204);
+  border-radius: 2px;
+  color: white;
+  padding: 5px 15px 5px 0px;
+  width: 80px;
+  font-size: 11px;
+}
+
 :root {
-  --borderWidth: 7px;
-  --height: 24px;
-  --width: 12px;
-  --borderColor: #78b13f;
+  padding: 70px 0 0 20px;
+  --borderWidth: 2px;
+  --height: 7px;
+  --width: 3px;
+  --borderColor: white;
 }
 
 .check {
@@ -21,4 +41,5 @@
   width: var(--width);
   border-bottom: var(--borderWidth) solid var(--borderColor);
   border-right: var(--borderWidth) solid var(--borderColor);
+  margin: 0 15px;
 }
