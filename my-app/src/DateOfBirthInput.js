@@ -3,7 +3,7 @@ import './styles/DateOfBirthInput.css';
 function DateOfBirthInput() {
   return (
     <div>
-      <label for="date-of-birth-input">Date of birth</label><br/>
+      <label htmlFor="date-of-birth-input">Date of birth</label><br/>
       <input
         type="date"
         id="date-of-birth-input"
