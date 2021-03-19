@@ -1,6 +1,15 @@
 # stuff-fe-assessment-part-1
 Date of Birth component.
 
+Screenshot 1
+![image](https://user-images.githubusercontent.com/63925904/111721512-6a6be700-8836-11eb-83b6-9b2eca8c2636.png)
+
+Screenshot 2
+![image](https://user-images.githubusercontent.com/63925904/111721632-b61e9080-8836-11eb-8935-9d56976e6610.png)
+
+Screenshot 3
+![image](https://user-images.githubusercontent.com/63925904/111721705-cf274180-8836-11eb-9e3c-6be26d6b6f64.png)
+
 ## Getting Started
 In order to view the component in your browser, follow these steps:
 
